@@ -1,0 +1,15 @@
+C:\Users\victo\OneDrive\Bureau\UAA9_2048_PholienVictor_2023\UAA9_2048_PholienVictor_2023\bin\Debug\net6.0\UAA9_2048_PholienVictor_2023.exe
+C:\Users\victo\OneDrive\Bureau\UAA9_2048_PholienVictor_2023\UAA9_2048_PholienVictor_2023\bin\Debug\net6.0\UAA9_2048_PholienVictor_2023.deps.json
+C:\Users\victo\OneDrive\Bureau\UAA9_2048_PholienVictor_2023\UAA9_2048_PholienVictor_2023\bin\Debug\net6.0\UAA9_2048_PholienVictor_2023.runtimeconfig.json
+C:\Users\victo\OneDrive\Bureau\UAA9_2048_PholienVictor_2023\UAA9_2048_PholienVictor_2023\bin\Debug\net6.0\UAA9_2048_PholienVictor_2023.dll
+C:\Users\victo\OneDrive\Bureau\UAA9_2048_PholienVictor_2023\UAA9_2048_PholienVictor_2023\bin\Debug\net6.0\UAA9_2048_PholienVictor_2023.pdb
+C:\Users\victo\OneDrive\Bureau\UAA9_2048_PholienVictor_2023\UAA9_2048_PholienVictor_2023\obj\Debug\net6.0\UAA9_2048_PholienVictor_2023.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Bureau\UAA9_2048_PholienVictor_2023\UAA9_2048_PholienVictor_2023\obj\Debug\net6.0\UAA9_2048_PholienVictor_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Bureau\UAA9_2048_PholienVictor_2023\UAA9_2048_PholienVictor_2023\obj\Debug\net6.0\UAA9_2048_PholienVictor_2023.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Bureau\UAA9_2048_PholienVictor_2023\UAA9_2048_PholienVictor_2023\obj\Debug\net6.0\UAA9_2048_PholienVictor_2023.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Bureau\UAA9_2048_PholienVictor_2023\UAA9_2048_PholienVictor_2023\obj\Debug\net6.0\UAA9_2048_PholienVictor_2023.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Bureau\UAA9_2048_PholienVictor_2023\UAA9_2048_PholienVictor_2023\obj\Debug\net6.0\UAA9_2048_PholienVictor_2023.dll
+C:\Users\victo\OneDrive\Bureau\UAA9_2048_PholienVictor_2023\UAA9_2048_PholienVictor_2023\obj\Debug\net6.0\refint\UAA9_2048_PholienVictor_2023.dll
+C:\Users\victo\OneDrive\Bureau\UAA9_2048_PholienVictor_2023\UAA9_2048_PholienVictor_2023\obj\Debug\net6.0\UAA9_2048_PholienVictor_2023.pdb
+C:\Users\victo\OneDrive\Bureau\UAA9_2048_PholienVictor_2023\UAA9_2048_PholienVictor_2023\obj\Debug\net6.0\UAA9_2048_PholienVictor_2023.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Bureau\UAA9_2048_PholienVictor_2023\UAA9_2048_PholienVictor_2023\obj\Debug\net6.0\ref\UAA9_2048_PholienVictor_2023.dll
